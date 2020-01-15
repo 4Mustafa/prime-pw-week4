@@ -1,0 +1,19 @@
+body {
+  background-color: grey;
+
+  h1 {
+  color: white;
+}
+
+p {
+  color: white;
+}
+
+div {
+  line-height: 400%;
+
+  img {
+  background-image: url('w3css.gif');
+  background-attachment: fixed;
+  background-position: bottom right;
+}
